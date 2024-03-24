@@ -6,14 +6,18 @@ team_leads:
   - Ricardo Valencia Albornoz (University of Edinburgh)
 
 contributors:
-
+  - Sabah Gaznaghi (University of Queensland)
 
 # github: AC-BO-Hackathon/<your-repo-name>
 # youtube_video: <your-video-id>
 
 ---
 
-When facing a chemistry problem with many outputs, you might want to optimise one output first, like the yield of a reaction, or look for trade-offs for several outputs in a multi-objective fashion. In the latter, objectives/outputs may not be equally important (even across iterations) and very often, a human ranks these outputs to help with future experimentation. Here we will use Bayesian optimization with preference exploration, BOPE [1,2] (implemented in Botorch), to guide optimisation in a synthetic multi-output dataset, and we will apply it later to a Fischer-Tropsch synthesis dataset [3,4]. This algorithm selects importance (or utility) of the outputs based on pairwise comparison, and the small twist is that this comparison will be done by a large language model (LLM) instead of a defined utility function [5]. We welcome anyone that wants to contribute or know more about preferential Bayesian optimization, multi-input multi-output datasets and LLM prompting.
+When facing a chemistry problem with many outputs, you might want to optimise one output first, like the yield of a reaction, or look for trade-offs for several outputs in a multi-objective fashion. In the latter, objectives/outputs may not be equally important (even across iterations) and very often, a human ranks these outputs to help with future experimentation. 
+
+Here we will use Bayesian optimization with preference exploration, BOPE [1,2] (implemented in Botorch), to guide optimisation in a synthetic multi-output dataset, and we will apply it later to a Fischer-Tropsch synthesis dataset [3,4]. This algorithm selects importance (or utility) of the outputs based on pairwise comparison, and the small twist is that this comparison will be done by a large language model (LLM) instead of a defined utility function [5].
+
+We welcome anyone that wants to contribute or know more about preferential Bayesian optimization, multi-input multi-output datasets and LLM prompting.
 
 References:
 
