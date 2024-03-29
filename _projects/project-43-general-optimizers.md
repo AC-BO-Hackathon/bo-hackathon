@@ -13,7 +13,7 @@ team_leads:
 # contributors:
 #  - 
 
-github: AC-BO-Hackathon/general-optimizers
+github: <your-github-repository>
 # youtube_video: <your-video-id>
 
 ---
