@@ -1,6 +1,6 @@
 ---
 number: 21 # leave as-is, maintainers will adjust
-title: Benchmarking MolDAIS and LOLBO
+title: Benchmarking MolDAIS
 topic: benchmark-app
 team_leads:
   - Farshud Sorourifar (The Ohio State University)
@@ -14,12 +14,14 @@ contributors:
 
 
 github: AC-BO-Hackathon/project-The_OSU_ChemEs
-# youtube_video: <your-video-id>
+youtube_video: https://youtu.be/eXApJJ-cTng
+* for better audio quality, see
+** youtube_video: <IN PROGRESS> 
 
 ---
 
 Recent works [1,2] are increasingly turning towards active encoding of molecular feature spaces. The motivation behind active encoding is that a priori encodings may not exhibit a smooth response to an arbitrary molecular property, reducing the performance of sample-efficient optimization algorithms, such as Bayesian optimization.    
-This project will focus on the algorithms proposed in [1] and [2], applied to the benchmarking datasets with real-world noise features. Additionally, we plan to extend these algorithms to the constrained and multi-objective benchmarking datasets.
+This project will focus on the algorithm proposed in [1], applied to the benchmarking datasets with real-world noise features. Additionally, we plan to extend these algorithms to the constrained and multi-objective benchmarking datasets.
 
 References:
 
