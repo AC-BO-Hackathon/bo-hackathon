@@ -13,7 +13,7 @@ contributors:
   - Curtis Chong (University of Waterloo)
 
 github: https://github.com/AC-BO-Hackathon/project_acquisition_functions
-youtube_video: 
+youtube_video: https://www.youtube.com/watch?v=6LVy1EATGi4
 
 ---
 
