@@ -6,13 +6,8 @@ team_leads:
   - Daniele Ongari (SYENSQO)
   - Alessio Tamburro (SYENSQO)
 
-# Comment these lines by prepending the pound symbol (#) to each line to hide these elements
-# contributors:
-#   - Contributor 1 (Institution 1)
-#   - Contributor 2 (Institution 2)
-
-# github: AC-BO-Hackathon/<your-repo-name>
-# youtube_video: <your-video-id>
+github: [danieleongari/blends](https://github.com/danieleongari/blends)
+youtube_video: [HASa3tFLZoI](https://www.youtube.com/watch?v=HASa3tFLZoI)
 
 ---
 
