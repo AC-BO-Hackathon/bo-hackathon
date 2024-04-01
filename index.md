@@ -100,18 +100,18 @@ Prizes sponsored by [Matterhorn Studio](https://matterhorn.studio/) will be anno
 {% else %}
 We'd like to congratulate the following teams for their outstanding contributions to the hackathon! The top-ranked[<sup>(?)</sup>][faq]{:title="What is expected from me if I act as a judge?"} projects are as follows:
 
-| Rank | Project | Team | Prize |
-|------|---------|------|-------|
-| 1st | | | |
-| 2nd | | | |
-| 3rd | | | |
-| 4th | | | |
-| 5th | | | |
-| 6th | | | |
-| 7th | | | |
-| 8th | | | |
-| 9th | | | |
-| 10th | | | |
+| Rank | # | Team Name | Project Name |
+| --- | --- | --- | --- |
+1st | Project 23 | Noisy Nerds | Reliable Surrogate Models of Noisy Data |
+2nd | Project 34 | BOMS Prob | Streamlining Material Discovery - Bayesian Optimization in Thermal Fluid Mixtures |
+3rd | Project 7 | Surface Science Syndicate | BayBE One More Time - Exploring Corrosion Inhibitors for Materials Design |
+4th | Project 5 | KLM | Comparing Bayesian Optimization Methods Across Multiple Hyperparameters Against Simulated "Human" Decision-making |
+5th | Project 8 | Molecular Representation | BO for Drug Discovery-What is the role of molecular representation? |
+6th | Project 9 | PME No Hikari | Optimizing The CO2 Adsorption Capacity of Metal-Organic Frameworks Using Thompson Sampling |
+7th | Project 11 | BlenDS | BlendDS - An intuitive specification of the design space for blends of components |
+8th | Project 30 | SERO Opt | Active learning for voltammetry waveform design |
+9th | Project 43 | Awesome List | Bayesian Optimization Awesome List |
+10th | Project 3 | Sparks Group | Take Your Time - Measuring Optimization Performance as a Function of ACQF Optimizer Runtime |
 
 For a full list of hackathon projects, we encourage you to check out the [projects page](_/../projects.md).
 

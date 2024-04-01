@@ -12,7 +12,7 @@ team_leads:
 # Comment these lines by prepending the pound symbol (#) to each line to hide these elements
 contributors:
 
-github: spgarcica/symbolic-test
+github: spgarcica/symbolic_test
 youtube_video: KKxlqo15wVY
 
 ---
