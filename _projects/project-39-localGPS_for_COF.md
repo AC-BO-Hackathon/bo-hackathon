@@ -22,7 +22,7 @@ methane deliverable capacity is important as it amounts to the amount of natural
 gas that can be stored on board vehicles. We use a database of 70,000 hypothetical
 COFS for testing this method [1]. 
 
-Check out our submission post on [X](https://twitter.com/nik_thota/status/1775733790335226170?s=61&t=VX1lLj215XQnDDvTWRpXJg)!
+Check out our submission post on [X](https://twitter.com/nik_thota/status/1775937064326041797?s=61&t=Us7-Ev4TgpAiBawbsW9VnA)!
 
 References:
 
