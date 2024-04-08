@@ -14,8 +14,7 @@ contributors:
   - Martin Fitzner (Merck KGaA / EMD group, @Scienfitz)
   - Alexander Hopp (Merck KGaA / EMD group, @AVHopp)
 
-# github: AC-BO-Hackathon/<your-repo-name>
-# youtube_video: <your-video-id>
+github: https://github.com/AC-BO-Hackathon/project-26-multiple-context-bo
 
 ---
 
